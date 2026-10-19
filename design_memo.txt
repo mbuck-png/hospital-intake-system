@@ -1,0 +1,5 @@
+Hospital Intake System
+
+A binary tree helps organize doctors and shows who reports to whom. Preorder, inorder, and postorder each show the structure in a different way, which can be useful for different reports or tasks.
+
+A min-heap helps prioritize emergency patients based on urgency instead of arrival time. Patients with a score of 1 are treated before patients with a score of 5. This keeps the system organized and makes it easier to manage patient priorities.
